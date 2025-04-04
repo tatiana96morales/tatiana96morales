@@ -8,23 +8,23 @@ I'm Tatiana Morales, a passionate Junior Data Analyst eager to dive deeper into 
 
 📊 Skills:
 
-Data Cleaning & Preprocessing
-Exploratory Data Analysis (EDA)
-Data Visualization
-SQL Queries
-Statistical Analysis
+Data Cleaning & Preprocessing<br/>
+Exploratory Data Analysis (EDA)<br/>
+Data Visualization<br/>
+SQL Queries<br/>
+Statistical Analysis<br/>
 Python (Pandas, NumPy, Scikit-learn)
 
 🌱 Currently learning:
 
-Deep Learning
-Big Data tools (Hadoop, Spark)
-Advanced Machine Learning
+Deep Learning<br/>
+Big Data tools (Hadoop, Spark)<br/>
+Advanced Machine Learning<br/>
 Feel free to explore my repositories, where I share some of the projects I’ve worked on, ranging from analyzing datasets to building data pipelines!
 
 📫 How to reach me:
 
-https://www.linkedin.com/in/tatiana-morales-38448a1b7/<br>
+https://www.linkedin.com/in/tatiana-morales-38448a1b7/<br/>
 tatianalam96@gmail.com
 <!--
 **tatiana96morales/tatiana96morales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
