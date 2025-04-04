@@ -24,7 +24,7 @@ Feel free to explore my repositories, where I share some of the projects I’ve 
 
 📫 How to reach me:
 
-https://www.linkedin.com/in/tatiana-morales-38448a1b7/
+https://www.linkedin.com/in/tatiana-morales-38448a1b7/<br>
 tatianalam96@gmail.com
 <!--
 **tatiana96morales/tatiana96morales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
