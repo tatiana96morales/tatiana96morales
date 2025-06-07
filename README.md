@@ -4,7 +4,7 @@ I'm Tatiana Morales, a passionate Junior Data Analyst eager to dive deeper into 
 
 🔍 I have experience working with Python, SQL, and Excel to analyze, visualize, and interpret data. I'm constantly learning new techniques, tools, and methodologies to improve my analytical skills.
 
-💡 I'm excited to contribute to projects that solve real-world problems using data. Currently working on improving my skills in Machine Learning and Data Visualization with libraries like Matplotlib, Seaborn, and Tableau.
+💡 I'm excited to contribute to projects that solve real-world problems using data. Currently working on improving my skills in Machine Learning and Data Visualization with libraries like Matplotlib, Seaborn, and Power BI.
 
 📊 Skills:
 
